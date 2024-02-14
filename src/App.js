@@ -134,7 +134,7 @@ function App() {
         <p class="idea-1">That's what I was going to do.</p>
         <p class="idea-2">But then I stopped.</p>
         <p class="idea-3">
-          I realised, I wanted to do something <strong>special</strong>.
+          I realised, I wanted to do something <strong>special.</strong>
         </p>
         <p class="idea-4">Because,</p>
         <p class="idea-5">
