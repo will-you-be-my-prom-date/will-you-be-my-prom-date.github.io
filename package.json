@@ -1,7 +1,7 @@
 {
   "name": "prom-date",
   "version": "0.1.0",
-  "homepage": "https://gitname.github.io/react-gh-pages",
+  "homepage": "https://will-you-be-my-prom-date.github.io/",
   "private": true,
   "dependencies": {
     "@gsap/react": "^2.1.0",
